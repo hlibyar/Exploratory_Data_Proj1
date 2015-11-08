@@ -1,5 +1,5 @@
 # Exploratory_Data_Proj1
-# set working directory (change this to fit your needs)
+# set working directory
 setwd('C:/Users/Hongmei/Desktop/R_coursera/Exploratory data')
 
 # required packages
